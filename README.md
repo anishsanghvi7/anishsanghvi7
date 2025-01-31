@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anish</h1>
+<h1 align="center">Hi, I'm Anish 👋</h1>
 <h3 align="center">A Bioinformatics + Biomedical Engineering Student from Sydney, Australia </h3>
 
 - 🔭 I’m currently working on: [My Portfolio Website](https://github.com/anishsanghvi7/anishPortfolio)
