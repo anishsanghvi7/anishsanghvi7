@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: Python, React.js
 - 💬 Ask me about: My favourite countries I've visited
 - 💼 I'm currently a Computational Biology Intern at the [Children's Cancer Institute](https://www.ccia.org.au/)
-- 🧠 I'm interesed in getting into Data Science, Frontend Engineering and/or UI/UX
+- 🧠 I'm interesed in getting into Data Science, ML, Frontend Engineering and/or UI/UX
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
